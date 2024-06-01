@@ -1,1 +1,1 @@
-#Testing Node server and Supabase functions seperately (comparing funcitonality)
+#Testing Node Server and Supabase functions separately (comparing functionality)
